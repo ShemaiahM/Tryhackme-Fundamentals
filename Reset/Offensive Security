@@ -1,0 +1,14 @@
+##Offensive Defense in Cyber Security
+
+#Offensive Security
+*'To defend from an attacker, one must think like an Attacker!'*
+For one to defend from bad actors(hackers) one must also act like one, by breaking into systems(hardware and software) and networks by, exploiting vulnerabilities, 
+sofware holes/bugs(like, day 1 pataches aka zero day attacks or by sloppy or bad code), finding loops holes into systems/networks and gaining unauthorised access by,
+escalating privileges in the system/networks of an organisation. 
+
+#Roles
+- 🤼 Red Teaming(Red Teamer), they act like a Hacker(Bad actor/threat actors) and attack the organisations systems/networks, finding attack vectors, using attack methods,
+      breaking into applications and finding loop holes in to systems/networks. They then write detailed reports about how,what,when and where they attacked and what 
+      vulnerabilities and risks they found like, the use of social engineering through phishing emails(tricking a person/employee by sending an email that looks official) and 
+      Social media phishing(going through social media and pretending to know the employee(s)). Or simply from Zero day attacks, vulnerabilities in new software/applications
+      that had just been released or even by, finding existing vulnerbailities in preexisting systems/networks.

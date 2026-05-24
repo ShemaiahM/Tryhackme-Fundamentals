@@ -1,0 +1,15 @@
+## Defensive Cyber Security Aka Blue Teaming(Blue Team)
+
+##Roles Key Roles
+- ⛨ SOC(Security Operations Centre ) Analyst -They monitor the organisations systems/networks and hardware in real time to spot, 
+  suspiscious and expected threats or normal operations/ behaviours.
+
+- 🤺 Incident Responder -These persons will be the first to respond to the incident. If the activity is confirmed to be a threats the IR(Incident Responder) 
+  has to start containing, monitoring and prevent in real time(while threat is happening) the threat actors(Black Hats) and their method of attack.
+  IR(Incident Responder) will also, gather information on what,when,where and how the bad actors(Black hats/Threat Actors) breached the system/network
+  with the methods, targerts(who they attacked and what they attacked)they had used, gathering this information to further help protect the organisation.
+
+- Security Engineer -The Security Engineers typically 
+
+
+- Digital Forensics 

@@ -1,0 +1,17 @@
+# What is Ping?
+- Ping is one of the most basic and fundamental networking tools available to us, no matter what OS(Operating System) we use, we have access to using this. For
+  windows we use the terminal(Simply click on teh windows bottom, type in termininal in the sreach bar, then run as administrator click yes. The terminal will open).
+
+### Now type in ping google.com
+- We type in ping google.com into the terminal.
+
+-Now Ping uses ICMP(Internet Control Message Protocol) to test the performance of the connect and speed between devices to see if the connection is safe.
+
+-The time messured between connected devices is measured in ping, the measuring is done using ICMP's echo packet and then ICMP's echo reply from the target device.
+time=136ms
+time=20ms
+time=20ms
+time=22ms
+- As you can see here using Ping, it tests for connect 4 times to make sure its safe then the time talen between the devices so in this instance my laptop to the google server.
+-Pings can be used to perform against devices on a network, such as your home network or resources like websites like ping google.com for example.
+
